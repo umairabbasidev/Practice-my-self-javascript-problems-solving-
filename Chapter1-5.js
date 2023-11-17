@@ -46,8 +46,8 @@ let completeInformation = studentName + "\n" +  studentAge + "\n"  + studentCour
 // alert(completeInformation)
 
 // Q5 
-// let food = "PIZZA"
-// alert(food + "\n" + )
+let food = "PIZZA\nPIZZ\nPIZ\nPI\nP"
+// alert(food )
 
 // Q6
 let email = "example123@gmail.com";
@@ -69,6 +69,30 @@ let myString = "▬▬▬▬▬▬▬▬▬ஜ۩۞۩ஜ▬▬▬▬▬▬▬▬�
 // document.write(myString)
 
 
+// __________X________X_________
+
+// chapeter 3(VARIABLES FOR NUMBERS)
+
+// Q1 
+
+let age = 21;
+// alert(age)
+
+// Q2 
+let track = 14;
+// alert(`You have visited this site ${track} times`)
+
+// Q3 
+let birthYear = 2002;
+// document.write(`My birth year is <b>${birthYear}</b></br> Data type of my declared variable is <i>${typeof birthYear}</i>`)
+
+// Q4 
+let websiteName = "www.onlineClothing.com";
+let userName = "Asad";
+let noOFOrders = '5';
+let productName = "T-shirts"
+
+// document.write(`<b>${userName}</b> ordered <b>${noOFOrders}</b> <b>${productName}</b> on <b>${websiteName}</b>`)
 
 
 
